@@ -1,0 +1,2 @@
+bubble sort
+insertion sort
