@@ -1,0 +1,31 @@
+Sorting Algorithms
+	bubble sort - done
+	insertion sort - done
+	merge sort - done
+	Selection Sort - done
+	Quick Sort
+	heap sort
+
+Search ALgorithms
+	Binary Search
+
+
+
+Programming methods:
+	divide and conquer aproach
+	greedy aproach
+	dyanmic programming
+
+
+recursion algorithm
+greedy algorithm
+searching algorithms
+sorting algorithms
+
+data structures
+	lists
+	queues
+	stacks
+	sets
+	trees
+	hash
