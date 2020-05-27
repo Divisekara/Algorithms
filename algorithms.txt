@@ -3,4 +3,7 @@ insertion sort
 Merge sort algorithm
 Quick Sort algorithm
 Selection Sort algorithm
+Heap sort
+
+
 
